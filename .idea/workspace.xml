@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b314cb04-057f-4306-a3cf-f420c4177cb4" name="Changes" comment="day 5 project">
-      <change afterPath="$PROJECT_DIR$/Beginner/Day-6-Escaping-the-Maze/main.py" afterDir="false" />
+    <list default="true" id="b314cb04-057f-4306-a3cf-f420c4177cb4" name="Changes" comment="day 6 project">
+      <change afterPath="$PROJECT_DIR$/Beginner/Day-7-Hangman/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day-7-Hangman/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day-7-Hangman/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758639261072</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day 6 project">
+      <option name="closed" value="true" />
+      <created>1758758603287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758758603287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +130,7 @@
     <MESSAGE value="day 3 project" />
     <MESSAGE value="day 4 project" />
     <MESSAGE value="day 5 project" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 5 project" />
+    <MESSAGE value="day 6 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 6 project" />
   </component>
 </project>

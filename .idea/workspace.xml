@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b314cb04-057f-4306-a3cf-f420c4177cb4" name="Changes" comment="day 11 project">
-      <change afterPath="$PROJECT_DIR$/Beginner/Day-12-Number-Guessing-Game/main.py" afterDir="false" />
+    <list default="true" id="b314cb04-057f-4306-a3cf-f420c4177cb4" name="Changes" comment="day 12 project">
+      <change afterPath="$PROJECT_DIR$/Beginner/Day-14-Higher-Lower-Game/characters_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day-14-Higher-Lower-Game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
   "keyToString": {
     "Python.main (1).executor": "Run",
     "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
     "Python.main.executor": "Run",
     "Python.outro.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -49,7 +51,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-days-of-code" />
       <option name="ENV_FILES" value="" />
@@ -94,6 +96,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-days-of-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day-14-Higher-Lower-Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day-14-Higher-Lower-Game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-days-of-code" />
       <option name="ENV_FILES" value="" />
@@ -118,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
@@ -268,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759809062234</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="day 12 project">
+      <option name="closed" value="true" />
+      <created>1760236072486</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1760236072486</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,6 +320,7 @@
     <MESSAGE value="day 9 project" />
     <MESSAGE value="day 10 project" />
     <MESSAGE value="day 11 project" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 11 project" />
+    <MESSAGE value="day 12 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 12 project" />
   </component>
 </project>

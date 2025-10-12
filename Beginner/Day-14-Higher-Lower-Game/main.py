@@ -16,6 +16,8 @@ while should_continue:
 
     print(f"Compare A: {a['name']}, {a['bio']}")
     print(f"Against B: {b['name']}, {b['bio']}")
+
+    #ask user for a guess
     answer = input("Who is taller? Type 'A' or 'B': ").lower()
 
     def check_answer():
@@ -24,6 +26,7 @@ while should_continue:
         else:
             return answer == "b"
 
+    #check if user is correct
     if check_answer():
         score += 1
         print("\n" * 20)

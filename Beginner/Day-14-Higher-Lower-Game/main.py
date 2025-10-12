@@ -10,6 +10,7 @@ while b == a or b["height"] == a["height"]:
     b = random.choice(c.danmei_characters)
 
 should_continue = True
+
 print("Guess which Danmei character is taller!")
 while should_continue:
 
